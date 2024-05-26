@@ -4,6 +4,8 @@
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
                       -Lê Minh Nam</br>
                       -Đỗ Thị Thơm</br>
+                      -Phạm Thúy Quỳnh</br>
+                      -Nguyễn Duy Tùng</br>
                       
 <p><H4>Tóm tắt</H4><br/>
 <li> GIỚI THIỆU  </li>
