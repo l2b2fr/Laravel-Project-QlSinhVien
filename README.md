@@ -3,6 +3,7 @@
 <hr/></br>
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
                       -Lê Minh Nam</br>
+                      -Đỗ Thị Thơm</br>
                       
 <p><H4>Tóm tắt</H4><br/>
 <li> GIỚI THIỆU  </li>
